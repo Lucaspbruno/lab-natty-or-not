@@ -20,19 +20,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Tita, a Lua de Saturno e sua importância para a ciência.
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Um Ebook sobre Titã, a lua de Saturno.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+GPT Chat e Canva Ebook Creator
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o GPT Chat para criar um ebook para mim sobre o tema, O Canva gerou a imagem e sua extensão Ebook Creator foi utilizada para organizar meu ebook em paginas.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+https://www.canva.com/design/DAGK7S8IM4M/L3ZwmfXnjWjzqEKBy2fq8w/view?utm_content=DAGK7S8IM4M&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
